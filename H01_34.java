@@ -8,5 +8,4 @@ public class H01_34 {
         }
         return sum;
     }
-
 }

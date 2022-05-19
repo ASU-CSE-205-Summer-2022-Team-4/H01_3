@@ -13,6 +13,7 @@ public class H01_31 {
             list.add(start);
             start++;
         }
+        start = 0;
         while(start < 5){
             list.add(start);
             start++;

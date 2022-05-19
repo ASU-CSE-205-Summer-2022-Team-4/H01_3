@@ -3,7 +3,7 @@ public class driver {
     public static void main(String[] args){
         //3.1
         H01_31 testing1 = new H01_31();
-        //System.out.println(testing1.arrayListInt());
+        //System.out.println(testing1.arrayListInit());
 
         //3.4
         H01_34 testing2 = new H01_34();

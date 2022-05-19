@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class H01_31 {
     //method
-    public ArrayList<Integer> arrayListInt(){
+    public ArrayList<Integer> arrayListInit(){
         ArrayList<Integer> list = new ArrayList<>();
         for (int i=0; i<10; i++) {
             list.add(i%5);

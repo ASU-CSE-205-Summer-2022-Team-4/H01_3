@@ -15,5 +15,9 @@ public class driver {
         }
         //System.out.println(list);
         //System.out.println(testing2.arrayListSum(list));
+
+        //3.5
+        H01_35 testing3 = new H01_35();
+        //System.out.println(testing3.arrayListCreate(2, 7));
     }
 }

@@ -5,10 +5,6 @@
 import java.util.ArrayList;
 
 public class H01_31 {
-    public H01_31(){
-        //default constructor
-    }
-
     //method
     public ArrayList<Integer> arrayListInt(){
         ArrayList<Integer> list = new ArrayList<>();
@@ -23,5 +19,4 @@ public class H01_31 {
         }
         return list;
     }
-
 }
